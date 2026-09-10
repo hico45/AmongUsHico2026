@@ -8,3 +8,4 @@ Ze względu na różnice w plikach gry, proces instalacji różni się w zależn
 
 * 🟦 [**Instrukcja dla wersji Steam**](./Steam.md)
 * ⬛ [**Instrukcja dla wersji Epic Games**](./EpicGames.md)
+* 🧧 [**Opis ról**](https://townofus.pl)
